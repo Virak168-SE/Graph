@@ -6,7 +6,7 @@ This repository contains the implementation of a simple undirected graph and two
 <br>
 In this implementation, the graph is represented using an adjacency list, where each vertex has a list of its neighboring vertices. The graph is initialized with specified number of vertices, and edges are added between pairs of vertices.
 <br>
-The example graph used for traversal has 5 vertices(0-4) and the following edges:
+The example graph used for traversal has 5 vertices(0-4) and the following edges:<br>
 0 - 1 <br>
 0 - 2 <br>
 1 - 3 <br>
