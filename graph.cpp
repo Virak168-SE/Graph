@@ -11,10 +11,13 @@ int main(){
 
     cout << "Graph Structure (Adjacency List):" << endl;
     g.display();
+    cout << endl;
 
     cout << "DFS (Iterative) from Vertex 0:" << endl;
     g.dfs(0);
+    cout << endl;
 
     cout << "BFS from Vertex 0:" << endl;
     g.bfs(0);
+    cout << endl;
 }
